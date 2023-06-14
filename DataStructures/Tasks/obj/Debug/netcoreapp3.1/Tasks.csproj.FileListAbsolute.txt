@@ -1,0 +1,10 @@
+D:\Course\6 Task\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+D:\Course\6 Task\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+D:\Course\6 Task\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.AssemblyReference.cache
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+D:\Course\6 Task\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
