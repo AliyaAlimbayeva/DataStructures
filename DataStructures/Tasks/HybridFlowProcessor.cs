@@ -7,16 +7,15 @@ namespace Tasks
 {
     public class HybridFlowProcessor<T> : IHybridFlowProcessor<T>
     {
-        private List<T> items = new List<T>();
+        private DoublyLinkedList<T> items = new DoublyLinkedList<T>();
 
         public T Dequeue()
         {
-            if (items.Count == 0)
+            if (items.Length == 0)
             {
                 throw new InvalidOperationException("HybridFlowProcessor is empty");
             }
-            T data = items[0];
-            items.RemoveAt(0);
+            T data = items.RemoveAt(0);
             return data;
         }
 
@@ -27,13 +26,12 @@ namespace Tasks
 
         public T Pop()
         {
-            if (items.Count == 0)
+            if (items.Length == 0)
             {
                 throw new InvalidOperationException("HybridFlowProcessor is empty");
             }
 
-            T item = items[items.Count - 1];
-            items.RemoveAt(items.Count - 1);
+            T item = items.RemoveAt(items.Length - 1);
             return item;
         }
 
